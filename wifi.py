@@ -1,0 +1,6 @@
+print("Router = WRT300N")
+print("SSID = Home Router")
+print("Security = WPA2-PSK")
+print("Router IP = 192.168.0.1")
+print("DHCP = On")
+print("Test = ping 192.168.0.1")
